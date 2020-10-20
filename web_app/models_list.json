@@ -1,4 +1,3 @@
 {
-  "model1": {"model_tag": "rf_clf", "model_version":  ""},
-  "model2": {"model_tag": "linsvc_clf", "model_version":  ""}
+  "model1": {"model_tag": "rf_clf", "model_version":  ""}
 }
